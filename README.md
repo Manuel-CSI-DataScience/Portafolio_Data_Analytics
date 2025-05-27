@@ -27,3 +27,4 @@ Publicación en Power BI Service: Cómo publicar informes creados en Power BI De
 Interactividad en Power BI Service: Funciones como alertas, interacción fluida con los informes y la posibilidad de compartir enlaces públicos.
 
 Opciones Avanzadas en Power BI Service: Menciona brevemente las actualizaciones programadas, el uso compartido de informes y modelos de datos.
+![imagen](https://github.com/user-attachments/assets/57cb1cf3-ba0b-4681-97a6-ccc09b935f46)
